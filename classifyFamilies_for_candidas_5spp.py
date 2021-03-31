@@ -3,6 +3,7 @@
 Created on Wed Feb  3 10:55:13 2016
 
 @author: cpegueroles
+modified by Hrant Hovhnnisyan
 """
 #usage: python classifyFamiliesv5_VennGH.py calb ctrop cpar cglab 4spv4.out 4spv4_Families.fam 4spv4_Families.txt 4spv4_FAMvenn.R 4spv4_GENESvenn.R >4spv4_Families.counts
 #ex: 4spv4.out
