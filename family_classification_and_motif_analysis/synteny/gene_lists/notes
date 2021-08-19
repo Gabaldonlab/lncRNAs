@@ -1,0 +1,2 @@
+grep -v -f ~/users/tg/current/hhovhannisyan/jena_project/lncRNAs_bigRNAseq_and_public/revision/blast/caur_to_discard.txt caur_protcod_and_u_OLD.txt  > caur_protcod_and_u.txt
+grep -v -f ~/users/tg/current/hhovhannisyan/jena_project/lncRNAs_bigRNAseq_and_public/revision/blast/ctrop_to_discard.txt ctrop_protcod_and_u_OLD.txt  > ctrop_protcod_and_u.txt
