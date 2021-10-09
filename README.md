@@ -1,10 +1,12 @@
+ ## The lncRNA landscape of Candida yeast pathogens
+
 This GitHub page and directory contains all scripts and data files necessary to fully reproduce the results of the paper by Hovhannisyan and Gabaldon "The lncRNA landscape of Candida yeast pathogens".
 
 The directory contains several sub-directories for different types of analyses, which we describe below. Each sub-directory contains annotated scripts, data files and README.txt files describing the entire analysis. If analyses are done in R, the sub-directories also contain sessionInfo.txt files listing all R packages and versions.
 Note that most of the analyses are computationally very demanding and, if done from start to end, the project might require ~10 terabytes of space. Hence for some of the steps we highly recommend using HPC resources. 
 
 
-Below you can find general descriptions for each sub-directory in the order by which they need to be executed.
+ ### Below you can find general descriptions for each sub-directory in the order by which they need to be executed.
 
 1. data_fetching_and_QC_and_strand_detection - this is the initial part of the entire workflow containing scripts and data files necessary to obtain, perform QC and trimming of all public RNA-Seq datasets used in our study. Note that downloading and processing the data is very time and space consuming since it encompasses >2600 RNA-Seq samples.
 2. mapping_assembly_lncRNA_prediction - the next step of the workflow performs (among other analyses) mapping of RNA-Seq data to the corresponding reference genomes (which are located in reference_genomes_and_annotations folder), genome-guided transcriptome assembly, transcriptomes merging and coding potential assessments, which altogether constitute the process of lncRNA predictions. Again this step is computationally very expensive and ideally requires HPC resources. 
