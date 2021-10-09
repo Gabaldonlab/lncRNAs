@@ -1,0 +1,17 @@
+Ca22chr1A_C_albicans_SC5314	1A	0	3188341	chromosome
+Ca22chr1A_C_albicans_SC5314	1A	1562957	1565886	centromere
+Ca22chr2A_C_albicans_SC5314	2A	0	2231883	chromosome
+Ca22chr2A_C_albicans_SC5314	2A	1927153	1930112	centromere
+Ca22chr3A_C_albicans_SC5314	3A	0	1799298	chromosome
+Ca22chr3A_C_albicans_SC5314	3A	823240 	826388	centromere
+Ca22chr4A_C_albicans_SC5314	4A	0	1603259	chromosome
+Ca22chr4A_C_albicans_SC5314	4A	992473  996110 	centromere
+Ca22chr5A_C_albicans_SC5314	5A	0	1190869	chromosome
+Ca22chr5A_C_albicans_SC5314	5A	468680  471709	centromere
+Ca22chr6A_C_albicans_SC5314	6A	0	1033292	chromosome
+Ca22chr6A_C_albicans_SC5314	6A	979801  983554	centromere
+Ca22chr7A_C_albicans_SC5314	7A	0	949580	chromosome
+Ca22chr7A_C_albicans_SC5314	7A	425806  428706	centromere
+Ca22chrM_C_albicans_SC5314	M	0	40420	chromosome
+Ca22chrRA_C_albicans_SC5314	RA	0	2286237	chromosome
+Ca22chrRA_C_albicans_SC5314	RA	1743087 1747506	centromere

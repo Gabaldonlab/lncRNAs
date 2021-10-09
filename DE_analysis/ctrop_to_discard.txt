@@ -1,0 +1,13 @@
+MSTRG.1204.1|225|u|NA|Supercontig_3.1_C_tropicalis_MYA-3404|ctrop
+MSTRG.1372.1|216|u|NA|Supercontig_3.1_C_tropicalis_MYA-3404|ctrop
+MSTRG.288.1|801|u|NA|Supercontig_3.10_C_tropicalis_MYA-3404|ctrop
+MSTRG.3772.1|850|u|NA|Supercontig_3.2_C_tropicalis_MYA-3404|ctrop
+MSTRG.4566.1|401|u|NA|Supercontig_3.3_C_tropicalis_MYA-3404|ctrop
+MSTRG.5357.1|5168|u|NA|Supercontig_3.4_C_tropicalis_MYA-3404|ctrop
+MSTRG.5971.1|1204|u|NA|Supercontig_3.4_C_tropicalis_MYA-3404|ctrop
+MSTRG.6227.1|987|u|NA|Supercontig_3.4_C_tropicalis_MYA-3404|ctrop
+MSTRG.6259.1|313|u|NA|Supercontig_3.4_C_tropicalis_MYA-3404|ctrop
+MSTRG.6357.1|259|u|NA|Supercontig_3.4_C_tropicalis_MYA-3404|ctrop
+MSTRG.714.1|5380|u|NA|Supercontig_3.16_C_tropicalis_MYA-3404|ctrop
+MSTRG.8838.1|244|u|NA|Supercontig_3.8_C_tropicalis_MYA-3404|ctrop
+MSTRG.9491.1|1233|u|NA|Supercontig_3.9_C_tropicalis_MYA-3404|ctrop

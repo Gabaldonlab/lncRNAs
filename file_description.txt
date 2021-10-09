@@ -1,0 +1,12 @@
+DE_<CALB,CTROP,CPAR,CGLAB>_lncRNA_for_github.R - for each species, R script generating results for host-pathogen interaction model;
+<blast,synteny,structure>_intergenic_<FAM,GENES>_VENN.R - scripts generating Venn diagrams of lncRNA family classification, based on BLAST, synteny and structural analysis;
+lncRNA_results.R - R script generating all the other results;
+SRR_SRP_correspondence_<calb,ctrop,cpar,cglab>.txt - for each species, correspondence between SRR and SRP accession numbers from SRA database;
+<calb,ctrop,cpar,cglab>_SraRunTable.txt - for each species, metadata for all analyzed samples;
+all_results_<calb,ctrop,cpar,cglab>.txt - files for generating saturation plots;
+<calb,ctrop,cpar,cglab>_expression.txt - foe each species, file with read counts for all analyzed datasets;
+<calb,ctrop,cpar,cglab>_gc.tsv - for each species, GC content for lncRNAs;
+<calb,ctrop,cpar,cglab>.bed - bed file with lncRNAs for each species;
+<calb,ctrop,cpar,cglab>_data.txt - for each species, read count data for host-pathogen interaction model;
+<calb,ctrop,cpar,cglab>_go.txt -  GO term information for each species;
+sessionInfo.txt – session info of R environment used for running the entire analysis. Make sure that software versions run in local machines match the ones in this file.

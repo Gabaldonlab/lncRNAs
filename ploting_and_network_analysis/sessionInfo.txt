@@ -1,0 +1,59 @@
+R version 3.6.1 (2019-07-05)
+Platform: x86_64-conda_cos6-linux-gnu (64-bit)
+Running under: openSUSE Leap 15.0
+
+Matrix products: default
+BLAS/LAPACK: /home/hhovhannisyan/miniconda2/envs/bioconductor/lib/R/lib/libRblas.so
+
+locale:
+[1] en_US.UTF-8
+
+attached base packages:
+ [1] grid      parallel  stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] DESeq2_1.26.0               SummarizedExperiment_1.16.1 DelayedArray_0.12.3        
+ [4] BiocParallel_1.20.1         matrixStats_0.56.0          tibble_3.0.1               
+ [7] chromPlot_1.14.0            GenomicRanges_1.38.0        GenomeInfoDb_1.22.1        
+[10] biomaRt_2.42.1              psych_1.9.12.31             colorspace_1.4-1           
+[13] openxlsx_4.1.4              taRifx_1.0.6.2              tidyr_1.0.2                
+[16] ggh4x_0.1.0.9000            VennDiagram_1.6.20          futile.logger_1.4.3        
+[19] ggpubr_0.2.5                magrittr_1.5                patchwork_1.0.0            
+[22] clusterProfiler_3.14.3      GO.db_3.10.0                AnnotationDbi_1.48.0       
+[25] IRanges_2.20.2              S4Vectors_0.24.4            Biobase_2.46.0             
+[28] BiocGenerics_0.32.0         ggrepel_0.8.2               WGCNA_1.69                 
+[31] fastcluster_1.1.25          dynamicTreeCut_1.63-1       stringr_1.4.0              
+[34] reshape2_1.4.4              dplyr_0.8.5                 ggplot2_3.3.0              
+
+loaded via a namespace (and not attached):
+  [1] backports_1.1.6        Hmisc_4.4-0            fastmatch_1.1-0        BiocFileCache_1.10.2  
+  [5] plyr_1.8.6             igraph_1.2.5           splines_3.6.1          urltools_1.7.3        
+  [9] digest_0.6.25          foreach_1.5.0          htmltools_0.4.0        GOSemSim_2.12.1       
+ [13] viridis_0.5.1          fansi_0.4.1            checkmate_2.0.0        memoise_1.1.0         
+ [17] cluster_2.1.0          doParallel_1.0.15      annotate_1.64.0        graphlayouts_0.6.0    
+ [21] askpass_1.1            enrichplot_1.6.1       prettyunits_1.1.1      jpeg_0.1-8.1          
+ [25] rappdirs_0.3.1         blob_1.2.1             xfun_0.13              RCurl_1.98-1.2        
+ [29] crayon_1.3.4           jsonlite_1.6.1         genefilter_1.68.0      impute_1.60.0         
+ [33] survival_3.1-12        iterators_1.0.12       glue_1.4.0             polyclip_1.10-0       
+ [37] gtable_0.3.0           zlibbioc_1.32.0        XVector_0.26.0         scales_1.1.0          
+ [41] DOSE_3.12.0            futile.options_1.0.1   DBI_1.1.0              Rcpp_1.0.4.6          
+ [45] xtable_1.8-4           viridisLite_0.3.0      progress_1.2.2         htmlTable_1.13.3      
+ [49] gridGraphics_0.5-0     foreign_0.8-76         bit_1.1-15.2           europepmc_0.3         
+ [53] preprocessCore_1.48.0  Formula_1.2-3          htmlwidgets_1.5.1      httr_1.4.1            
+ [57] fgsea_1.12.0           RColorBrewer_1.1-2     acepack_1.4.1          ellipsis_0.3.0        
+ [61] pkgconfig_2.0.3        XML_3.99-0.3           farver_2.0.3           dbplyr_1.4.3          
+ [65] nnet_7.3-13            locfit_1.5-9.4         utf8_1.1.4             ggplotify_0.0.5       
+ [69] tidyselect_1.0.0       labeling_0.3           rlang_0.4.5            munsell_0.5.0         
+ [73] tools_3.6.1            cli_2.0.2              RSQLite_2.2.0          ggridges_0.5.2        
+ [77] yaml_2.2.1             knitr_1.28             bit64_0.9-7            tidygraph_1.1.2       
+ [81] zip_2.0.4              purrr_0.3.4            ggraph_2.0.2           nlme_3.1-147          
+ [85] formatR_1.7            DO.db_2.9              xml2_1.3.1             compiler_3.6.1        
+ [89] rstudioapi_0.11        curl_4.3               png_0.1-7              ggsignif_0.6.0        
+ [93] geneplotter_1.64.0     tweenr_1.0.1           stringi_1.4.6          lattice_0.20-41       
+ [97] Matrix_1.2-18          vctrs_0.2.4            pillar_1.4.3           lifecycle_0.2.0       
+[101] BiocManager_1.30.10    triebeard_0.3.0        bitops_1.0-6           data.table_1.12.8     
+[105] cowplot_1.0.0          qvalue_2.18.0          R6_2.4.1               latticeExtra_0.6-29   
+[109] gridExtra_2.3          codetools_0.2-16       lambda.r_1.2.4         MASS_7.3-51.5         
+[113] assertthat_0.2.1       openssl_1.4.1          withr_2.3.0            mnormt_1.5-6          
+[117] GenomeInfoDbData_1.2.2 hms_0.5.3              rpart_4.1-15           rvcheck_0.1.8         
+[121] ggforce_0.3.1          base64enc_0.1-3       

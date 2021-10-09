@@ -1,0 +1,91 @@
+Species	Type	N	Total	Class_code
+calb	LINE/SINE	0	1459	u
+calb	Low complexity repeat	182	1459	u
+calb	LTR	0	1459	u
+calb	Simple repeat	590	1459	u
+calb	Unknown	91	1459	u
+calb	No overlap	752	1459	u
+calb	LINE/SINE	10	5763	x
+calb	Low complexity repeat	833	5763	x
+calb	LTR	0	5763	x
+calb	Simple repeat	2541	5763	x
+calb	Unknown	135	5763	x
+calb	No overlap	2838	5763	x
+calb	LINE/SINE	33	6213	pc
+calb	Low complexity repeat	367	6213	pc
+calb	LTR	0	6213	pc
+calb	Simple repeat	2233	6213	pc
+calb	Unknown	226	6213	pc
+calb	No overlap	3782	6213	pc
+ctrop	LINE/SINE	2	1581	u
+ctrop	Low complexity repeat	210	1581	u
+ctrop	LTR	0	1581	u
+ctrop	Simple repeat	702	1581	u
+ctrop	Unknown	32	1581	u
+ctrop	No overlap	773	1581	u
+ctrop	LINE/SINE	3	987	x
+ctrop	Low complexity repeat	126	987	x
+ctrop	LTR	0	987	x
+ctrop	Simple repeat	433	987	x
+ctrop	Unknown	8	987	x
+ctrop	No overlap	485	987	x
+ctrop	LINE/SINE	54	6258	pc
+ctrop	Low complexity repeat	414	6258	pc
+ctrop	LTR	0	6258	pc
+ctrop	Simple repeat	2101	6258	pc
+ctrop	Unknown	40	6258	pc
+ctrop	No overlap	3878	6258	pc
+cpar	LINE/SINE	1	1499	u
+cpar	Low complexity repeat	97	1499	u
+cpar	LTR	0	1499	u
+cpar	Simple repeat	452	1499	u
+cpar	Unknown	10	1499	u
+cpar	No overlap	999	1499	u
+cpar	LINE/SINE	5	3038	x
+cpar	Low complexity repeat	204	3038	x
+cpar	LTR	1	3038	x
+cpar	Simple repeat	920	3038	x
+cpar	Unknown	6	3038	x
+cpar	No overlap	2031	3038	x
+cpar	LINE/SINE	39	5837	pc
+cpar	Low complexity repeat	157	5837	pc
+cpar	LTR	1	5837	pc
+cpar	Simple repeat	1515	5837	pc
+cpar	Unknown	16	5837	pc
+cpar	No overlap	4205	5837	pc
+caur	LINE/SINE	4	842	u
+caur	Low complexity repeat	44	842	u
+caur	LTR	4	842	u
+caur	Simple repeat	225	842	u
+caur	Unknown	23	842	u
+caur	No overlap	582	842	u
+caur	LINE/SINE	19	4759	x
+caur	Low complexity repeat	223	4759	x
+caur	LTR	3	4759	x
+caur	Simple repeat	1166	4759	x
+caur	Unknown	75	4759	x
+caur	No overlap	3446	4759	x
+caur	LINE/SINE	78	5417	pc
+caur	Low complexity repeat	103	5417	pc
+caur	LTR	7	5417	pc
+caur	Simple repeat	612	5417	pc
+caur	Unknown	98	5417	pc
+caur	No overlap	4656	5417	pc
+cglab	LINE/SINE	1	449	u
+cglab	Low complexity repeat	17	449	u
+cglab	LTR	0	449	u
+cglab	Simple repeat	76	449	u
+cglab	Unknown	10	449	u
+cglab	No overlap	356	449	u
+cglab	LINE/SINE	4	989	x
+cglab	Low complexity repeat	47	989	x
+cglab	LTR	0	989	x
+cglab	Simple repeat	168	989	x
+cglab	Unknown	5	989	x
+cglab	No overlap	784	989	x
+cglab	LINE/SINE	64	5293	pc
+cglab	Low complexity repeat	294	5293	pc
+cglab	LTR	0	5293	pc
+cglab	Simple repeat	1494	5293	pc
+cglab	Unknown	15	5293	pc
+cglab	No overlap	3574	5293	pc

@@ -1,0 +1,9 @@
+Contig005504_C_parapsilosis_CDC317	5504	0	898305	chromosome
+Contig005569_C_parapsilosis_CDC317	5569	0	2235583	chromosome
+Contig005806_C_parapsilosis_CDC317	5806	0	1039767	chromosome
+Contig005807_C_parapsilosis_CDC317	5807	0	2091826	chromosome
+Contig005809_C_parapsilosis_CDC317	5809	0	3023470	chromosome
+Contig006110_C_parapsilosis_CDC317	6110	0	957321	chromosome
+Contig006139_C_parapsilosis_CDC317	6139	0	962442	chromosome
+Contig006372_C_parapsilosis_CDC317	6372	0	1789679	chromosome
+mito_C_parapsilosis_CDC317	mito	0	31781	chromosome
